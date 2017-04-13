@@ -1,0 +1,24 @@
+/*
+* @Author: 1
+* @Date:   2017-04-06 17:21:18
+* @Last Modified by:   1
+* @Last Modified time: 2017-04-06 17:23:54
+*/
+body{
+     			font-family:helvetica;
+     			-webkit-overflow-scrolling:touch;
+     			font-size: 0.14rem;
+     		    overflow-scrolling:touch ;
+     		}
+     		a,input,form,button{
+     			-webkit-tap-highlight-color:ragb(0,0,0,0,);
+     			-webkit-appearance:none;
+     			
+     		}
+     		*{
+     		-webkit-text-size-adjust:100%;
+     		-webkit-user-select:none;
+     		max-height: 9999999px;
+     		user-select:none;
+     		text-size-adjust:100%;
+     		}
